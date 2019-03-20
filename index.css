@@ -4,6 +4,10 @@ body {
 
 h1 {
     text-align: center;
-    color: brown;
+    color: purple;
+    size: 500px
+}
+h4 {
     size: 150px;
+
 }
