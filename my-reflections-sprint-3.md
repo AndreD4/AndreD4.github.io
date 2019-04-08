@@ -31,4 +31,21 @@ why? because this is keeping me on my toes yes i want to die but i feel so good 
 
 
 
+- Were you interested or bored during this exercise? Which parts were interesting? Which parts were boring?
+
+was interested hmm kinda but scared after my javascript momment im terrifed, honstly terrified.
+which part was interesting? well the whole thing because it helped my kinda understand 
+how javascript communicate wit html and css.
+there wasnt anything i find boring just scared haha honstly soooo much if info.
+
+
+
+- How many tabs do you have open in your web browser right now? What is the ratio of study related tabs to distraction related tabs?
+
+I have 7 tabs open all of them are study tabs, because javascript has me bent over like a dog.
+
+
+
+
+
 
