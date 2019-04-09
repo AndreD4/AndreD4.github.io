@@ -46,6 +46,24 @@ I have 7 tabs open all of them are study tabs, because javascript has me bent ov
 
 
 
+- What did you notice about your learning style, strengths and limitations when doing this crash course?
+
+my learing style so slow hahahahah strenght i can retain infomation theroy work im great.
+my limitation is practical work hahah applying it hahaha.
+
+
+Did any blocks come up for you? How did you overcome them?
+
+no road blocks come up just time.
+
+
+Did you do something funny with the Dev Tools, like insert your own name or some inappropriate words into the DOM of a website? If not, do so now. It's hilarious and a great way to amuse your non-technical friends. They will think you are a hacker wizard.
+
+
+HELLLLLLLLLL YES I DID HAHAHA.
+
+
+
 
 
 
