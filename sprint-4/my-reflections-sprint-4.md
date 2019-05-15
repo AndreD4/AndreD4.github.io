@@ -19,7 +19,28 @@ yes. why? becuase it makes life easier for you and who ever wants to read or go 
 
 now.....
 
-my NO anwser... well because i work quite backwards, the way i think seems messy and weird but thats how my brain works. but its a habit i dont want to brea but just be more flexible, wow i just answered the question ....... my answer is yes, i think its impoetant NOW hahahahaha
+my NO anwser... well because i work quite backwards, the way i think seems messy and weird but thats how my brain works. but its a habit i dont want to brea but just be more flexible, wow i just answered the question ....... my answer is yes, i think its important NOW hahahahaha
+
+
+
+- As a developer, how important do you think indenting is?
+
+HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
+
+
+- Do you prefer tabs or spaces when indenting?
+
+HMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+
+
+
+
+- What is your workspace like in real life? Clean? Messy? Is your code a reflection of that? Is your _downloads_ folder a reflection of that?
+
+My work space in real life.... AMAZING!!!!!!!!
+
 
 
 
